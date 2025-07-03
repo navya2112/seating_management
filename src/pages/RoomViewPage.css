@@ -1,0 +1,14 @@
+.room-view-page {
+    background-color: #fff;
+    min-height: 100vh;
+  }
+  
+  .header {
+    background-color: #f1f1f1;
+  }
+  
+  .dynamic-view {
+    background-color: #fafafa;
+    border-radius: 4px;
+  }
+  
